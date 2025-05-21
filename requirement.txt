@@ -1,0 +1,9 @@
+
+---
+
+### 5. `requirements.txt`
+
+```txt
+joblib
+requests
+scikit-learn
